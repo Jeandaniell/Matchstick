@@ -14,4 +14,3 @@ output.
 In case of bad input, you must ask for the line by displaying “Line: ” again, and it’s up to the player to indicate
 again the line he/she wants to play on.
 
-
