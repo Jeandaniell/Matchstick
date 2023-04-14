@@ -13,7 +13,7 @@ The user will always start the game.
 The program’s output (error messages included) must correspond to the examples below. Error messages
 which happens during a game and which are destined to the player must be displayed on the standard
 output.
-In case of bad input, you must ask for the line by displaying “Line: ” again, and it’s up to the player to indicate
+>In case of bad input, you must ask for the line by displaying “Line: ” again, and it’s up to the player to indicate
 again the line he/she wants to play on.
 
 
