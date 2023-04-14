@@ -1,5 +1,7 @@
 # Matchstick
 
+Compilation: ./matchstick n1 n2 (n1: first parameter representing the number of lines 
+and n2: second parameter representing the maximum number of matches that can be removed)
 
 The goal of the project is to create a program that you can play against.
 The basic version must generate a game board with n matchstick lines (1 < n < 100) and have a simple interface so that the user could play against the computer.
@@ -13,4 +15,5 @@ which happens during a game and which are destined to the player must be display
 output.
 In case of bad input, you must ask for the line by displaying “Line: ” again, and it’s up to the player to indicate
 again the line he/she wants to play on.
+
 
